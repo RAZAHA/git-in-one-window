@@ -1,0 +1,35 @@
+.header-right{ 
+  width: 50%;
+  height:80px;
+background:  royalblue;
+	padding-right:  0px;
+	
+}
+.header-left{  
+  width: 50%;
+  height: 80px;
+background-color: red;
+	float: left;
+}
+.body{height:1000px;
+width: 100%;
+background-color: black;
+margin: 0px;
+padding: 0px;}
+.header-margin{margin: 0px;
+padding: 0px ;
+padding-top: 0px;}
+.header-logo{display: block;
+margin-top: 0px;}
+.image-palace{padding-left:62px ;
+padding-top: 25px;}
+.inlineblock{display: inline-block;}
+.padding-margin-zero{
+	    margin-top: 0px;
+    padding-top: 0px;
+}
+.heade-meanu{
+	display:block;
+hieght:auto;
+width:auto;
+}
